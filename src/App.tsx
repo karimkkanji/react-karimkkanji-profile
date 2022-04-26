@@ -6,12 +6,8 @@ import Body from './Body';
 
 function App() {
   const [loading, setLoading] = useState(true);
-  const handleLoading = () => {
-    setLoading(false);
-  }
   useEffect(() => {
-    window.addEventListener("load", handleLoading);
-    return () => window.removeEventListener("load", handleLoading);
+    setLoading(false);
   }, [])
   return (
     <>
