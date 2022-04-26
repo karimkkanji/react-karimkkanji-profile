@@ -14,8 +14,8 @@ function App() {
     return () => window.removeEventListener("load", handleLoading);
   }, [])
   return (
-    <>{loading ? <></> :
-      <Body />}
+    <>
+      <Body />
       <Sugar customLoading={loading} color={'#54B689'} />
     </>
 
