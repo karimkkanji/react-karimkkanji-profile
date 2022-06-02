@@ -6,6 +6,28 @@ return (<section className="work-section py-3">
 <div className="item">
     <div className="item-heading row align-items-center mb-2">
         <h4 className="item-title col-12 col-md-6 col-lg-7 mb-2 mb-md-0">
+            Thamani Business Doctors
+        </h4>
+        <div className="item-meta col-12 col-md-6 col-lg-5 text-muted text-left text-md-right">
+            SME Triage Web App and Admin Portal | May 2022 - June 2022
+        </div>
+    </div>
+    <div className="item-content">
+        <p>
+        Lead Developer on the SME Triage Web Application as well as the admin Dashboard built 
+        using ReactJS 18+ and Bootstrap 5. Worked on the Landing page design and implementation 
+        to integrate it to the existing Website.Lead Developer on the SME Triage Web Application 
+        as well as the admin Dashboard built using ReactJS 18+ and Bootstrap 5. 
+        Worked on the Landing page design and implementation to integrate it to the existing Website. 
+        The app is hosted at{" "}<a href="https://sme-triage.businessdoctors.org">
+        https://sme-triage.businessdoctors.org
+            </a>
+        </p>
+    </div>
+</div>
+<div className="item">
+    <div className="item-heading row align-items-center mb-2">
+        <h4 className="item-title col-12 col-md-6 col-lg-7 mb-2 mb-md-0">
             CoolPam Water Systems
         </h4>
         <div className="item-meta col-12 col-md-6 col-lg-5 text-muted text-left text-md-right">
