@@ -6,6 +6,22 @@ return (<section className="project-section py-3">
 <div className="item">
     <div className="item-heading row align-items-center mb-2">
         <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">
+            Roshambo (Rock, Paper, Scissors, Lizard, Spock)
+        </h4>
+    </div>
+    <div className="item-content">
+        <p>
+           Want to play an easy to play game? Built with React.JS, Next.JS and Bootstrap, the game gets interesting
+           especially when competing with friends online. The project is hosted at:{" "}
+            <a href="https://roshambo.karimkkanji.com">
+                https://roshambo.karimkkanji.com/
+            </a>
+        </p>
+    </div>
+</div>
+<div className="item">
+    <div className="item-heading row align-items-center mb-2">
+        <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">
             Budgeteer
         </h4>
     </div>
