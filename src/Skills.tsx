@@ -1,6 +1,7 @@
 const Skills =()=>{
     return(<aside className="resume-aside col-12 col-lg-4 col-xl-3 px-lg-4 pb-lg-4">
     <section className="skills-section py-3">
+    <img alt="DevCard" style={{maxWidth:"100%", marginBottom:25}} src="https://raw.githubusercontent.com/karimkkanji/karimkkanji/main/devcard.svg"/>
         <h3 className="text-uppercase resume-section-heading mb-4">
             Skills
         </h3>
