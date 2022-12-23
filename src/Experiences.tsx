@@ -6,6 +6,26 @@ return (<section className="work-section py-3">
 <div className="item">
     <div className="item-heading row align-items-center mb-2">
         <h4 className="item-title col-12 col-md-6 col-lg-7 mb-2 mb-md-0">
+        🦊 Foxtrot Dash Inc.
+        </h4>
+        <div className="item-meta col-12 col-md-6 col-lg-5 text-muted text-left text-md-right">
+            Full-Stack Software Engineer | September 2022 - December 2022
+        </div>
+    </div>
+    <div className="item-content">
+        <p>
+        Building frontend and backend components for Foxtrot Dash using React.js/Next.js,  
+        React Hooks, Java, PostgreSQL, Spring Boot, version control using Git and Github, 
+        Managing Deployments and builds using Jenkins.
+        The app is hosted at{" "}<a href="https://foxtrotdash.com">
+        https://foxtrotdash.com
+            </a>
+        </p>
+    </div>
+</div>
+<div className="item">
+    <div className="item-heading row align-items-center mb-2">
+        <h4 className="item-title col-12 col-md-6 col-lg-7 mb-2 mb-md-0">
             Thamani Business Doctors
         </h4>
         <div className="item-meta col-12 col-md-6 col-lg-5 text-muted text-left text-md-right">
