@@ -74,7 +74,7 @@ return (<section className="work-section py-3">
             Liquid Foods
         </h4>
         <div className="item-meta col-12 col-md-6 col-lg-5 text-muted text-left text-md-right">
-            Admin Portal | August 2020 - Decemeber 2021
+            Admin Portal | August 2020 - December 2021
         </div>
     </div>
     <div className="item-content">
