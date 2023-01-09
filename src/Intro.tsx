@@ -3,7 +3,7 @@ return(<div className="resume-intro py-3">
 <div className="media flex-column flex-md-row align-items-center">
     <img
         className="resume-profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded-custom mx-auto"
-        src="https://backend.cryosoft.co.ke/v1/storage/buckets/6267a5a9979cfa7dd7e4/files/6267a631bedb4eb0f291/view?project=6267a5931d9bdc32f7f2&mode=admin"
+        src="https://firebasestorage.googleapis.com/v0/b/cryosoft-corporation.appspot.com/o/SAVE_20210522_120828.png?alt=media&token=81428b39-1857-4349-9456-499a1a6668e2"
         alt="Karim K. Kanji's Profile"
     />
     <div className="media-body text-left">
